@@ -9,12 +9,3 @@ location: "Norman, OK"
 ---
 
 A study of the structure, organization and powers of the executive, legislative and judicial branches including relationships between state and national governments. Emphasis upon political processes and popular government; elections, political parties, pressure groups, voting behavior.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
