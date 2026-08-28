@@ -8,6 +8,6 @@ date: 2025-09-01
 venue: 'Election Law Journal: Rules, Politics, and Policy'
 paperurl: 'https://doi.org/10.1089/elj.2023.0050'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'McLaughlin, P. T., Olson, P., Barron, N. T., Ashton, H. B., III, Blum, R., Finocchiaro, C. J., & Crespin, M. H. (2025). Ends Versus Means: Public Opinion on Congressional Redistricting. Election Law Journal: Rules, Politics, and Policy, 24(3), 287-301.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
