@@ -1,5 +1,5 @@
 ---
-title: “Partisan Signals, Procedural Opinions: Elite Cues and Public Support for Filibuster Reform”
+title: "Partisan Signals, Procedural Opinions: Elite Cues and Public Support for Filibuster Reform"
 collection: publications
 category: in_review
 permalink: /publication/partisan-signals-procedural-opinions

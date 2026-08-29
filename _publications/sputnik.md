@@ -1,5 +1,5 @@
 ---
-title: “The Sputnik Effect: Does the Rise of China Increase Support for Science at Home?”
+title: "The Sputnik Effect: Does the Rise of China Increase Support for Science at Home?"
 collection: publications
 category: in_review
 permalink: /publication/sputnik-effect

@@ -1,5 +1,5 @@
 ---
-title: “The Representation of Partisan Activists in Government”
+title: "The Representation of Partisan Activists in Government"
 collection: publications
 category: working
 permalink: /publication/representation-of-partisan-activists

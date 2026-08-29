@@ -1,5 +1,5 @@
 ---
-title: “Scandals, Negativity Bias, and Support for Congressional Reforms.”
+title: "Scandals, Negativity Bias, and Support for Congressional Reforms."
 collection: publications
 category: working
 permalink: /publication/scandals-negativity-bias
