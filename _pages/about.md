@@ -14,4 +14,4 @@ legislative institutions and science and technology policy.
 
 My research has been published in the Election Law Journal.
 
-I have earned a B.A. with honors, Magna Cum Laude in Political Science at Calvin University.
+I have earned a B.A. with honors in Political Science at Calvin University.
