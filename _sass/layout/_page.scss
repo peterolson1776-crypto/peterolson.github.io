@@ -27,8 +27,7 @@
     @include full();
 
     .page__content,
-    .page__meta,
-    .page__share {
+    .page__meta {
       @include full();
     }
   }
@@ -194,7 +193,7 @@
 /*
    Social sharing
    ========================================================================== */
-
+/*
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
@@ -219,6 +218,7 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+*/
 
 
 /*
