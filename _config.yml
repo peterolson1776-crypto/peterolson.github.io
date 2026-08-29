@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The avaiable themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The avaiable themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Peter Olson"
 title_separator          : "-"
 name                     : &name "Peter Olson"

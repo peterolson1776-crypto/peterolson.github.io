@@ -2,7 +2,7 @@
 title: "Ends Versus Means: Public Opinion on Congressional Redistricting."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ends-versus-means
 excerpt: ''
 date: 2025-09-01
 venue: 'Election Law Journal: Rules, Politics, and Policy'
