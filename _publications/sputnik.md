@@ -3,7 +3,7 @@ title: "The Sputnik Effect: Does the Rise of China Increase Support for Science 
 collection: publications
 category: in_review
 permalink: /publication/sputnik-effect
-exceprt: ''
+excerpt: ''
 paperurl: 'https://doi.org/10.17605/OSF.IO/T53BJ'
 citation: 'Olson, P. The Sputnik Effect: Does the Rise of China Increase Support for Science at Home?'
 ---
